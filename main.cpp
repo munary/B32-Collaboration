@@ -145,6 +145,15 @@ void fct13() {
 }
 
 void fct14() {
+
+cout <<"\n\n     -----     \n";
+cout <<"   -       -   \n";
+cout <<"  :-  / \134  -:  \n";
+cout <<"  :-##\134 /##-:  \n";
+cout <<"   -#######-   \n";
+cout <<"     -----     \n";
+
+cout << "\n\nPOKEMAAAAANNNN !!!!\n\n";
 }
 
 void fct15() {
