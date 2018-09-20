@@ -34,19 +34,103 @@ void fct05() {
 }
 
 void fct06() {
+	cout << "((_,...,_))   \n";
+	cout << "   |o o|\n";
+	cout << "  \\   / \n";
+	cout << "    ^_^  \n ";
 }
 
 
 void fct07() {
+printf("   _ _/|");
+printf("\n\'o.0'");
+printf("\n=(___)=");
+printf("\n   U");
 }
 
 void fct08() {
+ cout << "Ascii art are hard ;-;";
 }
 
 void fct09() {
+printf("   \\    /\\\n");
+printf("    )  ( ') meow.\n");
+printf("   (   /  )\n");
+printf("    \\ (__)|\n");
 }
 
 void fct10() {
+const char* SAM_10_TEXT = "                        /''''.             /'''.\n\
+                       : :'':/           % /''.'.\n\
+                   MMMM; ; ' /          / /   : :\n\
+                   WWWW:-:##MMMM--'''-- // ,-'  ;\n\
+                 /'    :     'WMMM    ::.' .-''\n\
+                 ; .MM /.-- ....WMM'     .-'\n\
+              ...---WW'' / /    'm'       ':\n\
+        ...--''      ..-'  :  MM :         ':\n\
+      /''MMMMM.   .''      . MM %           :\n\
+-.-''#-. 'MMMMMMM.-.                       /'\n\
+----#--   'WMMW''   '.                    .'\n\
+....,--  #       -...                   .'\n\
+    :  .-' '.     '-.:*-'''--   .'''--'%'\n\
+       &.    '.   .-' '-. #-.#-.\n\
+        &. .-''-.-'      #-. #-. '.\n\
+         '''            /   #.=-.\n\
+                      ./  .-'    '.\n\
+                  .='' '-=''      :\n\
+                 /  '             :\n\
+                 :   :             :\n\
+                ;   .%             :\n\
+                :   -.         :   :\n\
+               :'  ./          :   :\n\
+               :   -.          ;   :\n\
+              :'  ./          /   /\n\
+              :   =.          :   :\n\
+              :   /           :  .:.\n\
+             /  .:          .-++    +.\n\
+             :  ::.      .-+          &\n\
+            /  :+%=-....-+           . :\n\
+            :  :        +-. .-+-.  . : :\n\
+           /   +++++-.     +-...++. :) )\n\
+           :       .-+++-.       .+.)=+\n\
+           :....=+!       +-.   .+ :\n\
+              : : :          +++   :\n\
+              +.+.+.               :\n\
+                -+-:               ;\n\
+                   &              /\n\
+                    &             :\n\
+                     &            :\n\
+                     !            +....\n\
+                     +;                +-.\n\
+                      +.          ++++-.  +.\n\
+                       +-  .     .:     +.  +.\n\
+                       :   +.    ./       +.  +.\n\
+                       &    :    :         +.  +.\n\
+                       :   :    ;          +.  +.\n\
+                       :   :   /            +.  +.\n\
+                       :   :   :             +.  +.\n\
+                       :   :   :             +.  +.\n\
+                       :   :   :             +.  +.\n\
+                       :   :   :              +.  +.      ..\n\
+                       :   :   :               +.  +.   -+  )\n\
+                       :   :   :                +.   '+-+   /\n\
+                       :   :   :                 +.      .-+\n\
+                       :   :   :                  +--...-+\n\
+                       :  /    :\n\
+                       :  :    :\n\
+                       :  :    :\n\
+                       ;  :    :\n\
+                      /   :    :\n\
+                     +    :    +.\n\
+                   .+     :      +-.\n\
+                 .+        :        ,+-.\n\
+               .+          !            +-.\n\
+             ;+           + +           -. +.\n\
+           .+  +   +     .+   +.        .  +.;\n\
+           : .+ .+    .+       +.       +...)\n\
+           +-.  :   .-+          +-......).\n\
+             +--+--+\nSAM\n";
+	std::cout << SAM_10_TEXT;
 }
 
 void fct11() {
@@ -70,39 +154,83 @@ void fct12() {
 }
 
 void fct13() {
+	cout << "07" << endl;
+	cout << "God speed!";
 }
 
 void fct14() {
+
+cout <<"\n\n     -----     \n";
+cout <<"   -       -   \n";
+cout <<"  :-  / \134  -:  \n";
+cout <<"  :-##\134 /##-:  \n";
+cout <<"   -#######-   \n";
+cout <<"     -----     \n";
+
+cout << "\n\nPOKEMAAAAANNNN !!!!\n\n";
 }
 
 void fct15() {
+	
+	cout << "      ----      ----     " << endl;
+	cout << "            /-|          " << endl;
+        cout << "            |_|          " << endl;
+	cout << "                         " << endl;
+	cout << "         -------         " << endl;
+        cout << "       |         |       " << endl;  
+	cout << "       |         | 	  " << endl;
+	cout << "         -------         " << endl << endl;	
+
+	cout << "Les gens ont peur que la CAQ gagne des sieges a Montreal !" << endl << endl;
+
+   	cout << "Inquiétez-vous pas. C'est la seule place ou le virage a droite est interdit XD !!";
 }
 
 void fct16() {
+ cout << "allo";
 }
 
-void fct17() {
+void fct17() {  
+   cout << "       .            \n";
+   cout << "\\_____)\\_____\n";
+   cout << "/--v____ __`<         \n";
+   cout << "        )/          \n";
+   cout << "       ' \n";
 }
 
 void fct18() {
+ cout << " _\n| |\n| | _____ _   _\n| |/ / _ \\ | | |\n|   <  __/ |_| |\n|_|\\_\\___|\\__, |\n           __/ |\n          |___/\n";
 }
 
 void fct19() {
+cout << "do any of y'all play diablo...3 ? It's not THAT bad :(";
 }
 
-void fct20() {
+void fct20()
+{
+	printf("Dogs are better than cats \n Change my mind if you can");
 }
 
 void fct21() {
 }
 
 void fct22 () {
+
+	printf("I have been accepted");
+
+	cout << "gitClone  more like gitgud";
+
 }
 
 void fct23() {
 }
 
 void fct24() {
+cout <<"        _.-=""=-._\n";
+cout <<"      .'\\-++++-//''\n";
+cout <<"jgs  (  ||      ||  )\n";
+cout <<"      './/      \\.'\n";
+cout <<"        `'-=..=-'`\n";
 }
 
 void fct25() {
@@ -115,12 +243,21 @@ void fct27() {
 }
 
 void fct28() {
+	cout << "     " << endl;
+	cout << " i dont understand  ";
 }
 
 void fct29() {
 }
 
 void fct30() {
+	cout << "	 (__)\n";
+	cout << "         (oo)\n";
+	cout << "   /------\\/\n";
+	cout << "  / |    ||\n";
+	cout << " *  /\\---/\\\n";
+	cout << "    ~~   ~~\n";
+	cout << ".... \"Have you mooed today?\"....\n";
 }
 
 void separator() {	
