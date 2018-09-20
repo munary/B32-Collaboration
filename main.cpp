@@ -127,6 +127,8 @@ void fct12() {
 }
 
 void fct13() {
+	cout << "07" << endl;
+	cout << "God speed!";
 }
 
 void fct14() {
