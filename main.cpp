@@ -34,6 +34,10 @@ void fct05() {
 }
 
 void fct06() {
+	cout << "((_,...,_))   \n";
+	cout << "   |o o|\n";
+	cout << "  \\   / \n";
+	cout << "    ^_^  \n ";
 }
 
 
