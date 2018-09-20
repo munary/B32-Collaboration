@@ -188,7 +188,11 @@ void fct21() {
 }
 
 void fct22 () {
+
+	printf("I have been accepted");
+
 	cout << "gitClone  more like gitgud";
+
 }
 
 void fct23() {
