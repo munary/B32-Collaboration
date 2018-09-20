@@ -157,6 +157,19 @@ cout << "\n\nPOKEMAAAAANNNN !!!!\n\n";
 }
 
 void fct15() {
+	
+	cout << "      ----      ----     " << endl;
+	cout << "            /-|          " << endl;
+        cout << "            |_|          " << endl;
+	cout << "                         " << endl;
+	cout << "         -------         " << endl;
+        cout << "       |         |       " << endl;  
+	cout << "       |         | 	  " << endl;
+	cout << "         -------         " << endl << endl;	
+
+	cout << "Les gens ont peur que la CAQ gagne des sieges a Montreal !" << endl << endl;
+
+   	cout << "Inquiétez-vous pas. C'est la seule place ou le virage a droite est interdit XD !!";
 }
 
 void fct16() {
