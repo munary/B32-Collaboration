@@ -53,6 +53,10 @@ void fct08() {
 }
 
 void fct09() {
+printf("   \\    /\\\n");
+printf("    )  ( ') meow.\n");
+printf("   (   /  )\n");
+printf("    \\ (__)|\n");
 }
 
 void fct10() {
