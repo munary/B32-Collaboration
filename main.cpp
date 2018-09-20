@@ -45,6 +45,7 @@ printf("     U");
 }
 
 void fct08() {
+ cout << "Ascii art are hard ;-;";
 }
 
 void fct09() {
