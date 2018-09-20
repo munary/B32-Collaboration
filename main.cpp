@@ -76,7 +76,9 @@ void fct18() {
 void fct19() {
 }
 
-void fct20() {
+void fct20()
+{
+	printf("Dogs are better than cats \n Change my mind if you can");
 }
 
 void fct21() {
