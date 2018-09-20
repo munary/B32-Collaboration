@@ -107,6 +107,13 @@ void fct29() {
 }
 
 void fct30() {
+	cout << "	 (__)\n";
+	cout << "         (oo)\n";
+	cout << "   /------\\/\n";
+	cout << "  / |    ||\n";
+	cout << " *  /\\---/\\\n";
+	cout << "    ~~   ~~\n";
+	cout << ".... \"Have you mooed today?\"....\n";
 }
 
 void separator() {	
