@@ -50,6 +50,20 @@ void fct10() {
 }
 
 void fct11() {
+cout << "   .-----\\ -------." <<endl;
+cout << "   |       -       |" << endl;
+cout << "   |               |" << endl;
+cout << "   |               |" << endl;
+cout << "   |               |" << endl;
+cout << "_______________________" << endl;
+cout << "===========.===========" << endl;
+cout << "  / ~~~~~     ~~~~~\\" << endl;
+cout << " /|     |     |    |\\ " << endl;
+cout << " W   ---  / \\  ---   W" << endl;
+cout << "\\.      |o o|      ./" << endl; 
+cout << "  \\  ## ----- ##  /" << endl;
+cout << "   \\##         ##/" << endl;
+cout << "    \\_____v_____/" << endl;
 }
 
 void fct12() {
