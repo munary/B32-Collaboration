@@ -101,6 +101,8 @@ void fct27() {
 }
 
 void fct28() {
+	cout << "     " << endl;
+	cout << " i dont understand  ";
 }
 
 void fct29() {
