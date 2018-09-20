@@ -41,6 +41,7 @@ void fct07() {
 }
 
 void fct08() {
+ <<t << "Ascii art are hard ;-;";
 }
 
 void fct09() {
