@@ -43,9 +43,9 @@ void fct06() {
 
 void fct07() {
 printf("   _ _/|");
-printf("  \'o.0'");
-printf("  =(___)=");
-printf("     U");
+printf("\n\'o.0'");
+printf("\n=(___)=");
+printf("\n   U");
 }
 
 void fct08() {
