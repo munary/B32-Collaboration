@@ -67,7 +67,12 @@ void fct15() {
 void fct16() {
 }
 
-void fct17() {
+void fct17() {  
+   cout << "       .            \n";
+   cout << "\\_____)\\_____\n";
+   cout << "/--v____ __`<         \n";
+   cout << "        )/          \n";
+   cout << "       ' \n";
 }
 
 void fct18() {
