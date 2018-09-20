@@ -83,6 +83,7 @@ void fct21() {
 }
 
 void fct22 () {
+	printf("I have been accepted");
 }
 
 void fct23() {
