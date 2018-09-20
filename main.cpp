@@ -159,7 +159,7 @@ void fct18() {
 }
 
 void fct19() {
-cout << "do any of y'all play diablo/n/n"
+cout << "do any of y'all play diablo/n/n";
 }
 
 void fct20()
